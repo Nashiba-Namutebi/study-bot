@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "main": "index.js",
   "dependencies": {
-    "restify": "^11.1.0",
-    "botbuilder": "^4.23.1"
+    "botbuilder": "^4.23.0",
+    "restify": "^11.1.0"
+  },
+  "scripts": {
+    "start": "node index.js"
   }
 }
